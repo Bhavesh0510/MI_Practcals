@@ -1,1 +1,1 @@
-# MI_Practcals
+# MI_Practicals
